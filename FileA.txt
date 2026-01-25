@@ -1,3 +1,2 @@
 This is File A
 Making change to the file
-New change detected
